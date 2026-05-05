@@ -30,6 +30,9 @@ ResearchAI brings these tasks into one system. It provides:
 
 The goal is to reduce the effort required to understand, organize, and continue research work.
 
+### Vedio drive link 
+https://drive.google.com/file/d/1DUhYa4SmwW6iiLYLvmZcH1XLNte62i7U/view 
+
 ## Objectives
 
 - simplify research paper management
